@@ -1,0 +1,7 @@
+streamlit
+rdkit-pypi
+biopython
+scikit-learn
+py3Dmol
+numpy
+pandas
